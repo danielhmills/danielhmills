@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 }
 
 ## JSON-LD End ##
-
+```
 
 
 Here is the same Profile Information using [RDF-Turtle](https://medium.com/openlink-software-blog/simple-linked-data-deployment-tutorial-a532e568c82f) Notation. 
@@ -132,4 +132,4 @@ Here is the same Profile Information using [RDF-Turtle](https://medium.com/openl
 :i owl:sameAs <https://www.twitter.com/dan_hmills#this> .
 
 ## Turtle End ##
-
+```
