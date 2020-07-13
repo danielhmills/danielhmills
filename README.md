@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**danielhmills/danielhmills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +9,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: [@danhmills.twitter](http://twitter.com/dan_hmills#this) (Twitter), [@danhmills.linkedin](https://www.linkedin.com/in/daniel-heward-mills-a0940465#this) (LinkedIn), [@danhmills.email](mailto:didehen@openlinksw.com) (Email)
+
+- 💬 Ask me about ... [Knowledge Graph](https://twitter.com/hashtag/KnowledgeGraph), [Linked Data](https://twitter.com/hashtag/LinkedData), [ODBC](https://twitter.com/hashtag/ODBC), [JDBC](https://twitter.com/hashtag/JDBC), [Data Connectivity](https://twitter.com/hashtag/DataConnectivity), [WebID](https://twitter.com/hashtag/WebID)
 
 ## JSON-LD Start ##
 
@@ -53,7 +51,7 @@ Here are some ideas to get you started:
           "@id": "https://www.linkedin.com/in/daniel-heward-mills-a0940465#"
         },
         {
-          "@id": "https://www.twitter.com/danhmills#"
+          "@id": "https://www.twitter.com/dan_hmills#"
         }
       ],
       "schema:name": {
@@ -65,7 +63,7 @@ Here are some ideas to get you started:
           "@id": "https://www.linkedin.com/in/daniel-heward-mills-a0940465#"
         },
         {
-          "@id": "https://www.twitter.com/danhmills#"
+          "@id": "https://www.twitter.com/dan_hmills#"
         }
       ]
     },
@@ -127,10 +125,10 @@ Here is the same Profile Information using [RDF-Turtle](https://medium.com/openl
 # Personal Information 
 :i schema:mainEntityOf <> .
 :i schema:mainEntityOf <https://www.linkedin.com/in/daniel-heward-mills-a0940465#> .
-:i schema:mainEntityOf <https://www.twitter.com/danhmills#> .
+:i schema:mainEntityOf <https://www.twitter.com/dan_hmills#> .
 :i rdf:type schema:Person, foaf:Person .
 :i schema:name "Daniel Hewawrd-Mills" .
 :i owl:sameAs <https://www.linkedin.com/in/daniel-heward-mills-a0940465#this> .
-:i owl:sameAs <https://www.twitter.com/danhmills#this> .
+:i owl:sameAs <https://www.twitter.com/dan_hmills#this> .
 
 ## Turtle End ##
